@@ -1,2 +1,2 @@
 # simpleransm
-Learning Purposes only Ransomeware
+Practice Python Scripting 
